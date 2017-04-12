@@ -1,0 +1,9 @@
+## Affective EPA repository
+
+This directory is a repository of affective EPA values.
+They have been organized in different files for easier handling by the program.
+Some files contain only EPA values for identities, some for behaviors and
+settings, and others are a combination thereof.
+All values here have been extracted either form the (Interact
+software)[http://www.indiana.edu/~socpsy/ACT/interact.htm] or the (ACT
+website)[http://www.indiana.edu/~socpsy/ACT/interact/subcultures/sex_averages.htm]. 
