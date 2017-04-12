@@ -6,6 +6,7 @@ The model is written in Python and requires some Python pacakges to work.
 Some of the packages which are needed are:
 * Numpy
 * Pandas
+
 In particular, to run the model in Nengo GUI, Nengo and Nengo GUI should be installed:
 
 ```pip install nengo nengo_gui```
